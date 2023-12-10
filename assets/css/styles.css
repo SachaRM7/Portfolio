@@ -542,33 +542,29 @@ img
     display: block;
     background-color: var(--first-color);
 }
-.skills__html, .skills_firebase, .skills__figma
+.skills__html, .skills__firebase
 {
     width: 90%;
-}
-.skills_sketch, .skills_photoshop
-{
-    width: 85%;
 }
 .skills__css, .skills__php
 {
     width: 80%;
 }
-.skills__react
-{
-    width: 75%;
-}
-.skills__node
+.skills__node, .skills__sketch
 {
     width: 70%;
 }
-.skills__js
+.skills__figma
+{
+    width: 65%;
+}
+.skills__js, .skills__photoshop
 {
     width: 60%;
 }
-.skills__python
+.skills__python, .skills__react
 {
-    width: 55%;
+    width: 50%;
 }
 .skills__close .skills__list
 {
